@@ -1,0 +1,42 @@
+<mjml>
+  <mj-body>
+    <mj-section background-url="https://i.ibb.co/7Nr6k7X/backgrround-image.png" background-repeat="no-repeat" background-size="cover">
+      <mj-column>
+        <mj-text align="center" padding-top="150px" font-size="40px" text-transform="uppercase" color="#fff" font-weight="500">free shipping</mj-text>
+        <mj-text align="center" padding-top="0px" font-size="40px" text-transform="uppercase" color="#fff" font-weight="100">on orders over $50</mj-text>
+        <mj-text align="center" padding-top="30px" font-size="30px" text-transform="uppercase" color="#d3414e" font-weight="600">veterans day</mj-text>
+        <mj-text align="center" padding-top="0px" padding-bottom="50px" font-size="28px" text-transform="capitalize" color="#fff" font-weight="400">honoring our veterans</mj-text>
+        <mj-image href="#" padding-top="50px" padding-bottom="50px" title="delivery picture" alt="delivery picture" src="https://i.ibb.co/gjVJxKL/pic-1.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://i.ibb.co/NrphwTw/pic-2.png" background-repeat="no-repeat" background-size="cover">
+      <mj-column>
+        <mj-text font-size="15px" align="center" padding-top="400px" padding-bottom="0px" padding-left="50px" padding-right="50px" line-height="20px" color="#fff">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do elusmod tempor incididunt ut labore et dolore.</mj-text>
+        <mj-button href="#" background-color="transparent" inner-padding="10px 60px" border="1px solid #fff" padding-top="30px" padding-bottom="50px" text-transform="uppercase" font-size="15px">visit us</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-top="20px" padding-bottom="20px">
+      <mj-column>
+        <mj-text align="center">
+          <div>
+            <a href="#"><img src="https://i.ibb.co/WFrJ88X/facebook.png" style="width:30px;margin-right:7px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/z46r3jH/twitter.png" style="width:30px;margin-right:7px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/kQRCGBQ/linkedin.png" style="width:30px;margin-right:7px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/Ws47s0c/instagram.png" style="width:30px;margin-right:7px;" /></a>
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#cb1635" padding-bottom="15px" padding-top="15px">
+      <mj-column>
+        <mj-text padding-bottom="0" align="center" color="#fff" font-size="15px" font-weight="300">email@website.com</mj-text>
+        <mj-text padding-top="5px" align="center" color="#fff" font-size="15px" font-weight="100">+12 458 4658</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-bottom="80px">
+      <mj-column>
+        <mj-text align="center" text-transform="uppercase" font-size="11px" color="#000" font-weight="500">unsubscribe &nbsp; | &nbsp; privacy policy &nbsp; | &nbsp; web</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
